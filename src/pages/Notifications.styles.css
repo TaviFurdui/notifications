@@ -23,3 +23,18 @@
 .notification-text {
   font-size: 24px;
 }
+
+.butoane-container {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+}
+
+.adauga-notificare {
+  background-color: #e6e6fa;
+  border-radius: 6px;
+  border-color: transparent;
+  margin-top: 20px;
+  height: 30px;
+  outline: none;
+}
